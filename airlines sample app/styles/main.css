@@ -3,15 +3,15 @@
 }
 
 .ui-page {
-    background:#d3dfe5;
+    background:#ffffff;
 }
 .ui-content {
     padding:1em;
 }
 .ui-header.ui-bar-a {
-	background: #d3dfe5;
+	background: #e2001a;
     border:none;
-    color: #696f72;
+    color: #ffffff;
 }
 .ui-header.ui-bar-a > .ui-title {
     text-shadow:none;
@@ -129,4 +129,11 @@
 
 .ui-loader-verbose {
     background: #3496da;
+}
+#bblogo{
+    max-width: 97%;
+    margin-bottom: 1em;
+}
+#logon{
+    padding-top: 2em;
 }
